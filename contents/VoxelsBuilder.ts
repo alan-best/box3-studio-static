@@ -19,3 +19,8 @@ class VoxelsBuilder {
     }
   }
 }
+_registerPackage({
+  author: "Alan_Best",
+  id: "VoxelsBuilder",
+  label: "方块建造者",
+});
