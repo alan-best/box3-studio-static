@@ -1,0 +1,7 @@
+[
+  {
+    "label": "db: createTable",
+    "code": "db.sql`CREATE TABLE IF NOT EXISTS ${1:表名} (${2:表项})`",
+    "name": "创建数据库表格"
+  }
+]

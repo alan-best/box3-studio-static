@@ -10,3 +10,13 @@ declare class Console{
      */
     static log(...msg:any)
 }
+/**
+ * 数据库
+ */
+declare namespace db{
+    /**
+     * 输入sql语句，查询数据库
+     */
+    //@ts-ignore
+    export function sql(query:string):Promise<Box3QueryResult>
+}

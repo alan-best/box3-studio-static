@@ -1,0 +1,7 @@
+entity|实体
+player|玩家
+selector|选择器
+result|结果
+select|选择
+message|信息
+query|查询
