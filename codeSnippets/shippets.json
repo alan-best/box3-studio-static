@@ -3,5 +3,10 @@
     "label": "db: createTable",
     "code": "db.sql`CREATE TABLE IF NOT EXISTS ${1:表名} (${2:表项})`",
     "name": "创建数据库表格"
+  },
+  {
+    "label": "script",
+    "code": "class MyScript{\n    init(){\n        ${0}\n    }\n}\n\nstartScript(MyScript);",
+    "name": "基础脚本格式"
   }
 ]
