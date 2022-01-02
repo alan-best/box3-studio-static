@@ -1,2 +1,5 @@
 v3|Box3Vector3
-dq|db.sql`${0}`
+dq|db.sql`${0}`;
+wopj|world.onPlayerJoin(({ entity })=>{${0}});
+nv3|new Box3Vector3(${1:x},${2:y},${3:z})${0}
+dm|entity.player.directMessage(${1})${0}
