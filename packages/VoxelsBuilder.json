@@ -1,0 +1,11 @@
+{
+  "title": "方块建造者",
+  "type": "code",
+  "id": "VoxelsBuilder",
+  "content": {
+    "type": "VoxelsBuilder.d.ts",
+    "main": "VoxelsBuilder.ts"
+  },
+  "author": "Alan_Best",
+  "authorAvatar": ""
+}
