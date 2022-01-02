@@ -18,5 +18,5 @@ declare namespace db{
      * 输入sql语句，查询数据库
      */
     //@ts-ignore
-    export function sql(query:string):Promise<Box3QueryResult>
+    export function sql(query:TemplateStringsArray):Promise<Box3QueryResult>
 }
