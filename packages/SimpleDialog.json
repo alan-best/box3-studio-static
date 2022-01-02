@@ -3,8 +3,8 @@
   "type": "code",
   "id": "SimpleDialog",
   "content": {
-    "type": "declare function SimpleDialog():void",
-    "main": "function SimpleDialog(){console.log('hi!!!')}"
+    "type": "SimpleDialog.d.ts",
+    "main": "SimpleDialog.ts"
   },
   "author": "Alan_Best",
   "authorAvatar": ""
