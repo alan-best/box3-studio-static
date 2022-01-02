@@ -1,0 +1,10 @@
+{
+  "title": "简单对话框",
+  "type": "code",
+  "content": {
+    "type": "declare function SimpleDialog():void",
+    "main": "function SimpleDialog(){console.log('hi!!!')}"
+  },
+  "author": "Alan_Best",
+  "authorAvatar": ""
+}

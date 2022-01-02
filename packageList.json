@@ -1,3 +1,4 @@
 [
-{"label":"Test","icon":"mdi-cube-outline","desc":"A test package"}
+  { "label": "Test", "icon": "mdi-cube-outline", "desc": "A test package","id":"test" },
+  { "label": "SimpleDialogs", "desc": "简单的对话框","id":"SimpleDialog" }
 ]
