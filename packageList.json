@@ -1,14 +1,11 @@
 [
-  { "label": "Test1", "desc": "A test package","id":"test1" },
-  { "label": "Test2", "desc": "A test package","id":"test2" },
-  { "label": "Test3", "desc": "A test package","id":"test3" },
-  { "label": "Test4", "desc": "A test package","id":"test4" },
-  { "label": "Test5", "desc": "A test package","id":"test5" },
-  { "label": "Test6", "desc": "A test package","id":"test6" },
-  { "label": "Test7", "desc": "A test package","id":"test7" },
-  { "label": "Test8", "desc": "A test package","id":"test8" },
-  { "label": "Test9", "desc": "A test package","id":"test9" },
-  { "label": "Test10", "desc": "A test package","id":"test0" },
-  {"label":"VoxelsBuilder","desc":"建筑工具","id":"VoxelsBuilder"},
-  { "label": "SimpleDialogs", "desc": "简单的对话框","id":"SimpleDialog" }
+  { "label": "Test1", "desc": "测试package，请勿使用", "id": "test1" },
+  { "label": "Test2", "desc": "测试package，请勿使用", "id": "test2" },
+  {
+    "label": "VoxelsBuilder",
+    "desc": "建筑工具",
+    "id": "VoxelsBuilder",
+    "star": true
+  },
+  { "label": "SimpleDialogs", "desc": "简单的对话框", "id": "SimpleDialog" }
 ]
