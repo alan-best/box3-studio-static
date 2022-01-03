@@ -1,0 +1,11 @@
+{
+    "title": "购买物品",
+    "type": "code",
+    "id": "BuySomething",
+    "content": {
+      "type": "BuySomething.d.ts",
+      "main": "BuySomething.ts"
+    },
+    "author": "Alex79",
+    "authorAvatar": ""
+}
